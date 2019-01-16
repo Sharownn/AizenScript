@@ -1,0 +1,2 @@
+# AizenScript
+Aizen Auto Script
